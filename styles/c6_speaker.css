@@ -59,12 +59,11 @@ section h1 {
 }
 section h2 {
 	color: black;
-	font-size: 100%;
+	font-size: 105%;
 	padding: .5em 0 .25em 0;
 }
 section p {
 	padding-top: .5em;
-	padding-bottom: .5em;
 }
 section blockquote {
 	padding: 0 2em;
